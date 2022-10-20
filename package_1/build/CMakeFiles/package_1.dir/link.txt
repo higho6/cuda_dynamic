@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libpackage_1.so -o ../lib/libpackage_1.so CMakeFiles/package_1.dir/src/package_1.cpp.o ../lib/libPackage_Kernel_1.a /usr/local/cuda-11.4/lib64/libcudart_static.a -lpthread -ldl -lrt /usr/local/cuda-11.4/lib64/libcudadevrt.a /usr/local/cuda-11.4/lib64/libcudart_static.a -lpthread -ldl -lrt 

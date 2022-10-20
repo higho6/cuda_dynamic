@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/usr/include/**",
+                "/usr/local/cuda-11.4/include/**",
+                "/opt/ros/melodic/include/**",
+                "/usr/include/eigen3/**",
+                "/home/lqy/work/test_rdc/package_1/include/**",
+                "/home/lqy/work/test_rdc/package_2/include/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

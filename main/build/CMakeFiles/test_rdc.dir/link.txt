@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -rdynamic CMakeFiles/test_rdc.dir/main.cpp.o  -o test_rdc -Wl,-rpath,/home/lqy/work/test_rdc/package_1/lib:/home/lqy/work/test_rdc/package_2/lib /home/lqy/work/test_rdc/package_1/lib/libpackage_1.so /home/lqy/work/test_rdc/package_2/lib/libpackage_2.so /usr/local/cuda-11.4/lib64/libcudart_static.a -lpthread -ldl -lrt 
